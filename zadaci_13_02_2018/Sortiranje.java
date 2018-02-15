@@ -13,12 +13,12 @@ public class Sortiranje {
 				niz[i][j] = unos.nextDouble();
 			}
 		}
-		sortRows(niz);
+	//	sortRows(niz);
 
 	}
 
-	public static int sortRows(double[][] array) {
+	//public static int sortRows(double[][] array) {
 
-	}
+//	}
 
 }
